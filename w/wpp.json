@@ -1,0 +1,2352 @@
+[
+  {
+    "name": "India",
+    "official": "Republic of India",
+    "cca2": "IN",
+    "cca3": "IND",
+    "ccn3": "356",
+    "region": "Asia",
+    "population_2026": 1482955442,
+    "tfr_2026": 1.93
+  },
+  {
+    "name": "China",
+    "official": "People's Republic of China",
+    "cca2": "CN",
+    "cca3": "CHN",
+    "ccn3": "156",
+    "region": "Asia",
+    "population_2026": 1411369625,
+    "tfr_2026": 1.03
+  },
+  {
+    "name": "United States",
+    "official": "United States of America",
+    "cca2": "US",
+    "cca3": "USA",
+    "ccn3": "840",
+    "region": "Americas",
+    "population_2026": 349892943,
+    "tfr_2026": 1.62
+  },
+  {
+    "name": "Indonesia",
+    "official": "Republic of Indonesia",
+    "cca2": "ID",
+    "cca3": "IDN",
+    "ccn3": "360",
+    "region": "Asia",
+    "population_2026": 288953311,
+    "tfr_2026": 2.08
+  },
+  {
+    "name": "Pakistan",
+    "official": "Islamic Republic of Pakistan",
+    "cca2": "PK",
+    "cca3": "PAK",
+    "ccn3": "586",
+    "region": "Asia",
+    "population_2026": 261363212,
+    "tfr_2026": 3.44
+  },
+  {
+    "name": "Nigeria",
+    "official": "Federal Republic of Nigeria",
+    "cca2": "NG",
+    "cca3": "NGA",
+    "ccn3": "566",
+    "region": "Africa",
+    "population_2026": 244895915,
+    "tfr_2026": 4.2
+  },
+  {
+    "name": "Brazil",
+    "official": "Federative Republic of Brazil",
+    "cca2": "BR",
+    "cca3": "BRA",
+    "ccn3": "076",
+    "region": "Americas",
+    "population_2026": 213923212,
+    "tfr_2026": 1.59
+  },
+  {
+    "name": "Bangladesh",
+    "official": "People's Republic of Bangladesh",
+    "cca2": "BD",
+    "cca3": "BGD",
+    "ccn3": "050",
+    "region": "Asia",
+    "population_2026": 178879550,
+    "tfr_2026": 2.09
+  },
+  {
+    "name": "Russia",
+    "official": "Russian Federation",
+    "cca2": "RU",
+    "cca3": "RUS",
+    "ccn3": "643",
+    "region": "Europe",
+    "population_2026": 143229395,
+    "tfr_2026": 1.47
+  },
+  {
+    "name": "Ethiopia",
+    "official": "Federal Democratic Republic of Ethiopia",
+    "cca2": "ET",
+    "cca3": "ETH",
+    "ccn3": "231",
+    "region": "Africa",
+    "population_2026": 140624780,
+    "tfr_2026": 3.72
+  },
+  {
+    "name": "Mexico",
+    "official": "United Mexican States",
+    "cca2": "MX",
+    "cca3": "MEX",
+    "ccn3": "484",
+    "region": "Americas",
+    "population_2026": 133515130,
+    "tfr_2026": 1.85
+  },
+  {
+    "name": "Japan",
+    "official": "Japan",
+    "cca2": "JP",
+    "cca3": "JPN",
+    "ccn3": "392",
+    "region": "Asia",
+    "population_2026": 122083407,
+    "tfr_2026": 1.23
+  },
+  {
+    "name": "Egypt",
+    "official": "Arab Republic of Egypt",
+    "cca2": "EG",
+    "cca3": "EGY",
+    "ccn3": "818",
+    "region": "Africa",
+    "population_2026": 120968468,
+    "tfr_2026": 2.68
+  },
+  {
+    "name": "DR Congo",
+    "official": "Democratic Republic of the Congo",
+    "cca2": "CD",
+    "cca3": "COD",
+    "ccn3": "180",
+    "region": "Africa",
+    "population_2026": 118275755,
+    "tfr_2026": 5.8
+  },
+  {
+    "name": "Philippines",
+    "official": "Republic of the Philippines",
+    "cca2": "PH",
+    "cca3": "PHL",
+    "ccn3": "608",
+    "region": "Asia",
+    "population_2026": 118191310,
+    "tfr_2026": 1.86
+  },
+  {
+    "name": "Vietnam",
+    "official": "Socialist Republic of Vietnam",
+    "cca2": "VN",
+    "cca3": "VNM",
+    "ccn3": "704",
+    "region": "Asia",
+    "population_2026": 102457889,
+    "tfr_2026": 1.86
+  },
+  {
+    "name": "Iran",
+    "official": "Islamic Republic of Iran",
+    "cca2": "IR",
+    "cca3": "IRN",
+    "ccn3": "364",
+    "region": "Asia",
+    "population_2026": 93522331,
+    "tfr_2026": 1.66
+  },
+  {
+    "name": "Türkiye",
+    "official": "Republic of Türkiye",
+    "cca2": "TR",
+    "cca3": "TUR",
+    "ccn3": "792",
+    "region": "Asia",
+    "population_2026": 88057247,
+    "tfr_2026": 1.62
+  },
+  {
+    "name": "Germany",
+    "official": "Federal Republic of Germany",
+    "cca2": "DE",
+    "cca3": "DEU",
+    "ccn3": "276",
+    "region": "Europe",
+    "population_2026": 83547288,
+    "tfr_2026": 1.46
+  },
+  {
+    "name": "Tanzania",
+    "official": "United Republic of Tanzania",
+    "cca2": "TZ",
+    "cca3": "TZA",
+    "ccn3": "834",
+    "region": "Africa",
+    "population_2026": 73577936,
+    "tfr_2026": 4.41
+  },
+  {
+    "name": "Thailand",
+    "official": "Kingdom of Thailand",
+    "cca2": "TH",
+    "cca3": "THA",
+    "ccn3": "764",
+    "region": "Asia",
+    "population_2026": 71526317,
+    "tfr_2026": 1.19
+  },
+  {
+    "name": "United Kingdom",
+    "official": "United Kingdom of Great Britain and Northern Ireland",
+    "cca2": "GB",
+    "cca3": "GBR",
+    "ccn3": "826",
+    "region": "Europe",
+    "population_2026": 70113733,
+    "tfr_2026": 1.53
+  },
+  {
+    "name": "France",
+    "official": "French Republic",
+    "cca2": "FR",
+    "cca3": "FRA",
+    "ccn3": "250",
+    "region": "Europe",
+    "population_2026": 66792094,
+    "tfr_2026": 1.64
+  },
+  {
+    "name": "South Africa",
+    "official": "Republic of South Africa",
+    "cca2": "ZA",
+    "cca3": "ZAF",
+    "ccn3": "710",
+    "region": "Africa",
+    "population_2026": 65798019,
+    "tfr_2026": 2.17
+  },
+  {
+    "name": "Kenya",
+    "official": "Republic of Kenya",
+    "cca2": "KE",
+    "cca3": "KEN",
+    "ccn3": "404",
+    "region": "Africa",
+    "population_2026": 59189233,
+    "tfr_2026": 3.07
+  },
+  {
+    "name": "Italy",
+    "official": "Italian Republic",
+    "cca2": "IT",
+    "cca3": "ITA",
+    "ccn3": "380",
+    "region": "Europe",
+    "population_2026": 58810406,
+    "tfr_2026": 1.22
+  },
+  {
+    "name": "Myanmar",
+    "official": "Republic of the Union of Myanmar",
+    "cca2": "MM",
+    "cca3": "MMR",
+    "ccn3": "104",
+    "region": "Asia",
+    "population_2026": 55348043,
+    "tfr_2026": 2.06
+  },
+  {
+    "name": "Colombia",
+    "official": "Republic of Colombia",
+    "cca2": "CO",
+    "cca3": "COL",
+    "ccn3": "170",
+    "region": "Americas",
+    "population_2026": 54184207,
+    "tfr_2026": 1.6
+  },
+  {
+    "name": "Sudan",
+    "official": "Republic of the Sudan",
+    "cca2": "SD",
+    "cca3": "SDN",
+    "ccn3": "729",
+    "region": "Africa",
+    "population_2026": 54090494,
+    "tfr_2026": 4.13
+  },
+  {
+    "name": "Uganda",
+    "official": "Republic of Uganda",
+    "cca2": "UG",
+    "cca3": "UGA",
+    "ccn3": "800",
+    "region": "Africa",
+    "population_2026": 53451243,
+    "tfr_2026": 3.97
+  },
+  {
+    "name": "South Korea",
+    "official": "Republic of Korea",
+    "cca2": "KR",
+    "cca3": "KOR",
+    "ccn3": "410",
+    "region": "Asia",
+    "population_2026": 51563811,
+    "tfr_2026": 0.76
+  },
+  {
+    "name": "Iraq",
+    "official": "Republic of Iraq",
+    "cca2": "IQ",
+    "cca3": "IRQ",
+    "ccn3": "368",
+    "region": "Asia",
+    "population_2026": 48499453,
+    "tfr_2026": 3.13
+  },
+  {
+    "name": "Algeria",
+    "official": "People's Democratic Republic of Algeria",
+    "cca2": "DZ",
+    "cca3": "DZA",
+    "ccn3": "012",
+    "region": "Africa",
+    "population_2026": 48317564,
+    "tfr_2026": 2.62
+  },
+  {
+    "name": "Spain",
+    "official": "Kingdom of Spain",
+    "cca2": "ES",
+    "cca3": "ESP",
+    "ccn3": "724",
+    "region": "Europe",
+    "population_2026": 47826907,
+    "tfr_2026": 1.24
+  },
+  {
+    "name": "Argentina",
+    "official": "Argentine Republic",
+    "cca2": "AR",
+    "cca3": "ARG",
+    "ccn3": "032",
+    "region": "Americas",
+    "population_2026": 46079253,
+    "tfr_2026": 1.51
+  },
+  {
+    "name": "Afghanistan",
+    "official": "Islamic Republic of Afghanistan",
+    "cca2": "AF",
+    "cca3": "AFG",
+    "ccn3": "004",
+    "region": "Asia",
+    "population_2026": 45656244,
+    "tfr_2026": 4.56
+  },
+  {
+    "name": "Yemen",
+    "official": "Republic of Yemen",
+    "cca2": "YE",
+    "cca3": "YEM",
+    "ccn3": "887",
+    "region": "Asia",
+    "population_2026": 43554619,
+    "tfr_2026": 4.33
+  },
+  {
+    "name": "Angola",
+    "official": "Republic of Angola",
+    "cca2": "AO",
+    "cca3": "AGO",
+    "ccn3": "024",
+    "region": "Africa",
+    "population_2026": 40809125,
+    "tfr_2026": 4.89
+  },
+  {
+    "name": "Canada",
+    "official": "Canada",
+    "cca2": "CA",
+    "cca3": "CAN",
+    "ccn3": "124",
+    "region": "Americas",
+    "population_2026": 40628385,
+    "tfr_2026": 1.33
+  },
+  {
+    "name": "Ukraine",
+    "official": "Ukraine",
+    "cca2": "UA",
+    "cca3": "UKR",
+    "ccn3": "804",
+    "region": "Europe",
+    "population_2026": 39390127,
+    "tfr_2026": 1.0
+  },
+  {
+    "name": "Morocco",
+    "official": "Kingdom of Morocco",
+    "cca2": "MA",
+    "cca3": "MAR",
+    "ccn3": "504",
+    "region": "Africa",
+    "population_2026": 38924404,
+    "tfr_2026": 2.16
+  },
+  {
+    "name": "Uzbekistan",
+    "official": "Republic of Uzbekistan",
+    "cca2": "UZ",
+    "cca3": "UZB",
+    "ccn3": "860",
+    "region": "Asia",
+    "population_2026": 38054853,
+    "tfr_2026": 3.4
+  },
+  {
+    "name": "Poland",
+    "official": "Republic of Poland",
+    "cca2": "PL",
+    "cca3": "POL",
+    "ccn3": "616",
+    "region": "Europe",
+    "population_2026": 37771222,
+    "tfr_2026": 1.31
+  },
+  {
+    "name": "Mozambique",
+    "official": "Republic of Mozambique",
+    "cca2": "MZ",
+    "cca3": "MOZ",
+    "ccn3": "508",
+    "region": "Africa",
+    "population_2026": 37150233,
+    "tfr_2026": 4.54
+  },
+  {
+    "name": "Malaysia",
+    "official": "Malaysia",
+    "cca2": "MY",
+    "cca3": "MYS",
+    "ccn3": "458",
+    "region": "Asia",
+    "population_2026": 36585658,
+    "tfr_2026": 1.52
+  },
+  {
+    "name": "Ghana",
+    "official": "Republic of Ghana",
+    "cca2": "GH",
+    "cca3": "GHA",
+    "ccn3": "288",
+    "region": "Africa",
+    "population_2026": 36012939,
+    "tfr_2026": 3.26
+  },
+  {
+    "name": "Saudi Arabia",
+    "official": "Kingdom of Saudi Arabia",
+    "cca2": "SA",
+    "cca3": "SAU",
+    "ccn3": "682",
+    "region": "Asia",
+    "population_2026": 35463190,
+    "tfr_2026": 2.27
+  },
+  {
+    "name": "Peru",
+    "official": "Republic of Peru",
+    "cca2": "PE",
+    "cca3": "PER",
+    "ccn3": "604",
+    "region": "Americas",
+    "population_2026": 35091771,
+    "tfr_2026": 1.92
+  },
+  {
+    "name": "Madagascar",
+    "official": "Republic of Madagascar",
+    "cca2": "MG",
+    "cca3": "MDG",
+    "ccn3": "450",
+    "region": "Africa",
+    "population_2026": 33914269,
+    "tfr_2026": 3.78
+  },
+  {
+    "name": "Ivory Coast",
+    "official": "Republic of Côte d'Ivoire",
+    "cca2": "CI",
+    "cca3": "CIV",
+    "ccn3": "384",
+    "region": "Africa",
+    "population_2026": 33886271,
+    "tfr_2026": 4.1
+  },
+  {
+    "name": "Cameroon",
+    "official": "Republic of Cameroon",
+    "cca2": "CM",
+    "cca3": "CMR",
+    "ccn3": "120",
+    "region": "Africa",
+    "population_2026": 31022905,
+    "tfr_2026": 4.12
+  },
+  {
+    "name": "Nepal",
+    "official": "Federal Democratic Republic of Nepal",
+    "cca2": "NP",
+    "cca3": "NPL",
+    "ccn3": "524",
+    "region": "Asia",
+    "population_2026": 29650743,
+    "tfr_2026": 1.92
+  },
+  {
+    "name": "Niger",
+    "official": "Republic of Niger",
+    "cca2": "NE",
+    "cca3": "NER",
+    "ccn3": "562",
+    "region": "Africa",
+    "population_2026": 29266480,
+    "tfr_2026": 5.64
+  },
+  {
+    "name": "Venezuela",
+    "official": "Bolivarian Republic of Venezuela",
+    "cca2": "VE",
+    "cca3": "VEN",
+    "ccn3": "862",
+    "region": "Americas",
+    "population_2026": 28693790,
+    "tfr_2026": 2.04
+  },
+  {
+    "name": "Australia",
+    "official": "Commonwealth of Australia",
+    "cca2": "AU",
+    "cca3": "AUS",
+    "ccn3": "036",
+    "region": "Oceania",
+    "population_2026": 27351104,
+    "tfr_2026": 1.64
+  },
+  {
+    "name": "Syria",
+    "official": "Syrian Arab Republic",
+    "cca2": "SY",
+    "cca3": "SYR",
+    "ccn3": "760",
+    "region": "Asia",
+    "population_2026": 26875032,
+    "tfr_2026": 2.62
+  },
+  {
+    "name": "North Korea",
+    "official": "Democratic People's Republic of Korea",
+    "cca2": "KP",
+    "cca3": "PRK",
+    "ccn3": "408",
+    "region": "Asia",
+    "population_2026": 26662641,
+    "tfr_2026": 1.75
+  },
+  {
+    "name": "Mali",
+    "official": "Republic of Mali",
+    "cca2": "ML",
+    "cca3": "MLI",
+    "ccn3": "466",
+    "region": "Africa",
+    "population_2026": 26301752,
+    "tfr_2026": 5.33
+  },
+  {
+    "name": "Burkina Faso",
+    "official": "Burkina Faso",
+    "cca2": "BF",
+    "cca3": "BFA",
+    "ccn3": "854",
+    "region": "Africa",
+    "population_2026": 24865886,
+    "tfr_2026": 3.91
+  },
+  {
+    "name": "Sri Lanka",
+    "official": "Democratic Socialist Republic of Sri Lanka",
+    "cca2": "LK",
+    "cca3": "LKA",
+    "ccn3": "144",
+    "region": "Asia",
+    "population_2026": 23406381,
+    "tfr_2026": 1.93
+  },
+  {
+    "name": "Malawi",
+    "official": "Republic of Malawi",
+    "cca2": "MW",
+    "cca3": "MWI",
+    "ccn3": "454",
+    "region": "Africa",
+    "population_2026": 23073271,
+    "tfr_2026": 3.45
+  },
+  {
+    "name": "Taiwan",
+    "official": "Republic of China (Taiwan)",
+    "cca2": "TW",
+    "cca3": "TWN",
+    "ccn3": "158",
+    "region": "Asia",
+    "population_2026": 22960635,
+    "tfr_2026": 0.86
+  },
+  {
+    "name": "Zambia",
+    "official": "Republic of Zambia",
+    "cca2": "ZM",
+    "cca3": "ZMB",
+    "ccn3": "894",
+    "region": "Africa",
+    "population_2026": 22828446,
+    "tfr_2026": 3.91
+  },
+  {
+    "name": "Chad",
+    "official": "Republic of Chad",
+    "cca2": "TD",
+    "cca3": "TCD",
+    "ccn3": "148",
+    "region": "Africa",
+    "population_2026": 21841152,
+    "tfr_2026": 5.84
+  },
+  {
+    "name": "Kazakhstan",
+    "official": "Republic of Kazakhstan",
+    "cca2": "KZ",
+    "cca3": "KAZ",
+    "ccn3": "398",
+    "region": "Asia",
+    "population_2026": 21200678,
+    "tfr_2026": 2.92
+  },
+  {
+    "name": "Somalia",
+    "official": "Federal Republic of Somalia",
+    "cca2": "SO",
+    "cca3": "SOM",
+    "ccn3": "706",
+    "region": "Africa",
+    "population_2026": 20634812,
+    "tfr_2026": 5.8
+  },
+  {
+    "name": "Chile",
+    "official": "Republic of Chile",
+    "cca2": "CL",
+    "cca3": "CHL",
+    "ccn3": "152",
+    "region": "Americas",
+    "population_2026": 19986969,
+    "tfr_2026": 1.12
+  },
+  {
+    "name": "Senegal",
+    "official": "Republic of Senegal",
+    "cca2": "SN",
+    "cca3": "SEN",
+    "ccn3": "686",
+    "region": "Africa",
+    "population_2026": 19585058,
+    "tfr_2026": 3.66
+  },
+  {
+    "name": "Guatemala",
+    "official": "Republic of Guatemala",
+    "cca2": "GT",
+    "cca3": "GTM",
+    "ccn3": "320",
+    "region": "Americas",
+    "population_2026": 19107719,
+    "tfr_2026": 2.23
+  },
+  {
+    "name": "Romania",
+    "official": "Romania",
+    "cca2": "RO",
+    "cca3": "ROU",
+    "ccn3": "642",
+    "region": "Europe",
+    "population_2026": 18746246,
+    "tfr_2026": 1.71
+  },
+  {
+    "name": "Ecuador",
+    "official": "Republic of Ecuador",
+    "cca2": "EC",
+    "cca3": "ECU",
+    "ccn3": "218",
+    "region": "Americas",
+    "population_2026": 18522019,
+    "tfr_2026": 1.78
+  },
+  {
+    "name": "Netherlands",
+    "official": "Kingdom of the Netherlands",
+    "cca2": "NL",
+    "cca3": "NLD",
+    "ccn3": "528",
+    "region": "Europe",
+    "population_2026": 18495842,
+    "tfr_2026": 1.44
+  },
+  {
+    "name": "Cambodia",
+    "official": "Kingdom of Cambodia",
+    "cca2": "KH",
+    "cca3": "KHM",
+    "ccn3": "116",
+    "region": "Asia",
+    "population_2026": 18150994,
+    "tfr_2026": 2.49
+  },
+  {
+    "name": "Zimbabwe",
+    "official": "Republic of Zimbabwe",
+    "cca2": "ZW",
+    "cca3": "ZWE",
+    "ccn3": "716",
+    "region": "Africa",
+    "population_2026": 17435931,
+    "tfr_2026": 3.57
+  },
+  {
+    "name": "Guinea",
+    "official": "Republic of Guinea",
+    "cca2": "GN",
+    "cca3": "GIN",
+    "ccn3": "324",
+    "region": "Africa",
+    "population_2026": 15612561,
+    "tfr_2026": 3.96
+  },
+  {
+    "name": "Benin",
+    "official": "Republic of Benin",
+    "cca2": "BJ",
+    "cca3": "BEN",
+    "ccn3": "204",
+    "region": "Africa",
+    "population_2026": 15349465,
+    "tfr_2026": 4.34
+  },
+  {
+    "name": "Rwanda",
+    "official": "Republic of Rwanda",
+    "cca2": "RW",
+    "cca3": "RWA",
+    "ccn3": "646",
+    "region": "Africa",
+    "population_2026": 15047491,
+    "tfr_2026": 3.54
+  },
+  {
+    "name": "Burundi",
+    "official": "Republic of Burundi",
+    "cca2": "BI",
+    "cca3": "BDI",
+    "ccn3": "108",
+    "region": "Africa",
+    "population_2026": 14898980,
+    "tfr_2026": 4.57
+  },
+  {
+    "name": "Bolivia",
+    "official": "Plurinational State of Bolivia",
+    "cca2": "BO",
+    "cca3": "BOL",
+    "ccn3": "068",
+    "region": "Americas",
+    "population_2026": 12832703,
+    "tfr_2026": 2.47
+  },
+  {
+    "name": "South Sudan",
+    "official": "Republic of South Sudan",
+    "cca2": "SS",
+    "cca3": "SSD",
+    "ccn3": "728",
+    "region": "Africa",
+    "population_2026": 12561462,
+    "tfr_2026": 3.63
+  },
+  {
+    "name": "Tunisia",
+    "official": "Tunisian Republic",
+    "cca2": "TN",
+    "cca3": "TUN",
+    "ccn3": "788",
+    "region": "Africa",
+    "population_2026": 12447089,
+    "tfr_2026": 1.79
+  },
+  {
+    "name": "Haiti",
+    "official": "Republic of Haiti",
+    "cca2": "HT",
+    "cca3": "HTI",
+    "ccn3": "332",
+    "region": "Americas",
+    "population_2026": 12102740,
+    "tfr_2026": 2.55
+  },
+  {
+    "name": "Belgium",
+    "official": "Kingdom of Belgium",
+    "cca2": "BE",
+    "cca3": "BEL",
+    "ccn3": "056",
+    "region": "Europe",
+    "population_2026": 11781924,
+    "tfr_2026": 1.4
+  },
+  {
+    "name": "Jordan",
+    "official": "Hashemite Kingdom of Jordan",
+    "cca2": "JO",
+    "cca3": "JOR",
+    "ccn3": "400",
+    "region": "Asia",
+    "population_2026": 11712505,
+    "tfr_2026": 2.54
+  },
+  {
+    "name": "United Arab Emirates",
+    "official": "United Arab Emirates",
+    "cca2": "AE",
+    "cca3": "ARE",
+    "ccn3": "784",
+    "region": "Asia",
+    "population_2026": 11672491,
+    "tfr_2026": 1.21
+  },
+  {
+    "name": "Dominican Republic",
+    "official": "Dominican Republic",
+    "cca2": "DO",
+    "cca3": "DOM",
+    "ccn3": "214",
+    "region": "Americas",
+    "population_2026": 11653152,
+    "tfr_2026": 2.17
+  },
+  {
+    "name": "Honduras",
+    "official": "Republic of Honduras",
+    "cca2": "HN",
+    "cca3": "HND",
+    "ccn3": "340",
+    "region": "Americas",
+    "population_2026": 11273836,
+    "tfr_2026": 2.42
+  },
+  {
+    "name": "Tajikistan",
+    "official": "Republic of Tajikistan",
+    "cca2": "TJ",
+    "cca3": "TJK",
+    "ccn3": "762",
+    "region": "Asia",
+    "population_2026": 11073879,
+    "tfr_2026": 2.96
+  },
+  {
+    "name": "Papua New Guinea",
+    "official": "Independent State of Papua New Guinea",
+    "cca2": "PG",
+    "cca3": "PNG",
+    "ccn3": "598",
+    "region": "Oceania",
+    "population_2026": 11040004,
+    "tfr_2026": 2.99
+  },
+  {
+    "name": "Cuba",
+    "official": "Republic of Cuba",
+    "cca2": "CU",
+    "cca3": "CUB",
+    "ccn3": "192",
+    "region": "Americas",
+    "population_2026": 10869884,
+    "tfr_2026": 1.45
+  },
+  {
+    "name": "Sweden",
+    "official": "Kingdom of Sweden",
+    "cca2": "SE",
+    "cca3": "SWE",
+    "ccn3": "752",
+    "region": "Europe",
+    "population_2026": 10721747,
+    "tfr_2026": 1.44
+  },
+  {
+    "name": "Czechia",
+    "official": "Czech Republic",
+    "cca2": "CZ",
+    "cca3": "CZE",
+    "ccn3": "203",
+    "region": "Europe",
+    "population_2026": 10517246,
+    "tfr_2026": 1.47
+  },
+  {
+    "name": "Azerbaijan",
+    "official": "Republic of Azerbaijan",
+    "cca2": "AZ",
+    "cca3": "AZE",
+    "ccn3": "031",
+    "region": "Asia",
+    "population_2026": 10482650,
+    "tfr_2026": 1.66
+  },
+  {
+    "name": "Portugal",
+    "official": "Portuguese Republic",
+    "cca2": "PT",
+    "cca3": "PRT",
+    "ccn3": "620",
+    "region": "Europe",
+    "population_2026": 10386992,
+    "tfr_2026": 1.52
+  },
+  {
+    "name": "Togo",
+    "official": "Togolese Republic",
+    "cca2": "TG",
+    "cca3": "TGO",
+    "ccn3": "768",
+    "region": "Africa",
+    "population_2026": 10036701,
+    "tfr_2026": 4.01
+  },
+  {
+    "name": "Greece",
+    "official": "Hellenic Republic",
+    "cca2": "GR",
+    "cca3": "GRC",
+    "ccn3": "300",
+    "region": "Europe",
+    "population_2026": 9875654,
+    "tfr_2026": 1.34
+  },
+  {
+    "name": "Israel",
+    "official": "State of Israel",
+    "cca2": "IL",
+    "cca3": "ISR",
+    "ccn3": "376",
+    "region": "Asia",
+    "population_2026": 9713242,
+    "tfr_2026": 2.73
+  },
+  {
+    "name": "Hungary",
+    "official": "Hungary",
+    "cca2": "HU",
+    "cca3": "HUN",
+    "ccn3": "348",
+    "region": "Europe",
+    "population_2026": 9569609,
+    "tfr_2026": 1.5
+  },
+  {
+    "name": "Austria",
+    "official": "Republic of Austria",
+    "cca2": "AT",
+    "cca3": "AUT",
+    "ccn3": "040",
+    "region": "Europe",
+    "population_2026": 9104255,
+    "tfr_2026": 1.34
+  },
+  {
+    "name": "Sierra Leone",
+    "official": "Republic of Sierra Leone",
+    "cca2": "SL",
+    "cca3": "SLE",
+    "ccn3": "694",
+    "region": "Africa",
+    "population_2026": 9085041,
+    "tfr_2026": 3.53
+  },
+  {
+    "name": "Switzerland",
+    "official": "Swiss Confederation",
+    "cca2": "CH",
+    "cca3": "CHE",
+    "ccn3": "756",
+    "region": "Europe",
+    "population_2026": 9026674,
+    "tfr_2026": 1.45
+  },
+  {
+    "name": "Belarus",
+    "official": "Republic of Belarus",
+    "cca2": "BY",
+    "cca3": "BLR",
+    "ccn3": "112",
+    "region": "Europe",
+    "population_2026": 8906324,
+    "tfr_2026": 1.23
+  },
+  {
+    "name": "Laos",
+    "official": "Lao People's Democratic Republic",
+    "cca2": "LA",
+    "cca3": "LAO",
+    "ccn3": "418",
+    "region": "Asia",
+    "population_2026": 8023908,
+    "tfr_2026": 2.33
+  },
+  {
+    "name": "Turkmenistan",
+    "official": "Turkmenistan",
+    "cca2": "TM",
+    "cca3": "TKM",
+    "ccn3": "795",
+    "region": "Asia",
+    "population_2026": 7793862,
+    "tfr_2026": 2.6
+  },
+  {
+    "name": "Libya",
+    "official": "State of Libya",
+    "cca2": "LY",
+    "cca3": "LBY",
+    "ccn3": "434",
+    "region": "Africa",
+    "population_2026": 7582100,
+    "tfr_2026": 2.21
+  },
+  {
+    "name": "Kyrgyzstan",
+    "official": "Kyrgyz Republic",
+    "cca2": "KG",
+    "cca3": "KGZ",
+    "ccn3": "417",
+    "region": "Asia",
+    "population_2026": 7452284,
+    "tfr_2026": 2.72
+  },
+  {
+    "name": "Hong Kong",
+    "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "cca2": "HK",
+    "cca3": "HKG",
+    "ccn3": "344",
+    "region": "Asia",
+    "population_2026": 7361793,
+    "tfr_2026": 0.75
+  },
+  {
+    "name": "Nicaragua",
+    "official": "Republic of Nicaragua",
+    "cca2": "NI",
+    "cca3": "NIC",
+    "ccn3": "558",
+    "region": "Americas",
+    "population_2026": 7141863,
+    "tfr_2026": 2.16
+  },
+  {
+    "name": "Paraguay",
+    "official": "Republic of Paraguay",
+    "cca2": "PY",
+    "cca3": "PRY",
+    "ccn3": "600",
+    "region": "Americas",
+    "population_2026": 7135944,
+    "tfr_2026": 2.37
+  },
+  {
+    "name": "Congo",
+    "official": "Republic of the Congo",
+    "cca2": "CG",
+    "cca3": "COG",
+    "ccn3": "178",
+    "region": "Africa",
+    "population_2026": 6714991,
+    "tfr_2026": 3.99
+  },
+  {
+    "name": "Bulgaria",
+    "official": "Republic of Bulgaria",
+    "cca2": "BG",
+    "cca3": "BGR",
+    "ccn3": "100",
+    "region": "Europe",
+    "population_2026": 6643355,
+    "tfr_2026": 1.74
+  },
+  {
+    "name": "Serbia",
+    "official": "Republic of Serbia",
+    "cca2": "RS",
+    "cca3": "SRB",
+    "ccn3": "688",
+    "region": "Europe",
+    "population_2026": 6619948,
+    "tfr_2026": 1.51
+  },
+  {
+    "name": "El Salvador",
+    "official": "Republic of El Salvador",
+    "cca2": "SV",
+    "cca3": "SLV",
+    "ccn3": "222",
+    "region": "Americas",
+    "population_2026": 6403902,
+    "tfr_2026": 1.74
+  },
+  {
+    "name": "Denmark",
+    "official": "Kingdom of Denmark",
+    "cca2": "DK",
+    "cca3": "DNK",
+    "ccn3": "208",
+    "region": "Europe",
+    "population_2026": 6032948,
+    "tfr_2026": 1.52
+  },
+  {
+    "name": "Singapore",
+    "official": "Republic of Singapore",
+    "cca2": "SG",
+    "cca3": "SGP",
+    "ccn3": "702",
+    "region": "Asia",
+    "population_2026": 5922308,
+    "tfr_2026": 0.97
+  },
+  {
+    "name": "Lebanon",
+    "official": "Lebanese Republic",
+    "cca2": "LB",
+    "cca3": "LBN",
+    "ccn3": "422",
+    "region": "Asia",
+    "population_2026": 5922224,
+    "tfr_2026": 2.19
+  },
+  {
+    "name": "Liberia",
+    "official": "Republic of Liberia",
+    "cca2": "LR",
+    "cca3": "LBR",
+    "ccn3": "430",
+    "region": "Africa",
+    "population_2026": 5917728,
+    "tfr_2026": 3.71
+  },
+  {
+    "name": "Central African Republic",
+    "official": "Central African Republic",
+    "cca2": "CF",
+    "cca3": "CAF",
+    "ccn3": "140",
+    "region": "Africa",
+    "population_2026": 5792534,
+    "tfr_2026": 5.69
+  },
+  {
+    "name": "Oman",
+    "official": "Sultanate of Oman",
+    "cca2": "OM",
+    "cca3": "OMN",
+    "ccn3": "512",
+    "region": "Asia",
+    "population_2026": 5751467,
+    "tfr_2026": 2.44
+  },
+  {
+    "name": "Palestine",
+    "official": "State of Palestine",
+    "cca2": "PS",
+    "cca3": "PSE",
+    "ccn3": "275",
+    "region": "Asia",
+    "population_2026": 5746794,
+    "tfr_2026": 3.13
+  },
+  {
+    "name": "Norway",
+    "official": "Kingdom of Norway",
+    "cca2": "NO",
+    "cca3": "NOR",
+    "ccn3": "578",
+    "region": "Europe",
+    "population_2026": 5663376,
+    "tfr_2026": 1.42
+  },
+  {
+    "name": "Finland",
+    "official": "Republic of Finland",
+    "cca2": "FI",
+    "cca3": "FIN",
+    "ccn3": "246",
+    "region": "Europe",
+    "population_2026": 5619395,
+    "tfr_2026": 1.3
+  },
+  {
+    "name": "Mauritania",
+    "official": "Islamic Republic of Mauritania",
+    "cca2": "MR",
+    "cca3": "MRT",
+    "ccn3": "478",
+    "region": "Africa",
+    "population_2026": 5534779,
+    "tfr_2026": 4.48
+  },
+  {
+    "name": "Slovakia",
+    "official": "Slovak Republic",
+    "cca2": "SK",
+    "cca3": "SVK",
+    "ccn3": "703",
+    "region": "Europe",
+    "population_2026": 5446868,
+    "tfr_2026": 1.57
+  },
+  {
+    "name": "Ireland",
+    "official": "Republic of Ireland",
+    "cca2": "IE",
+    "cca3": "IRL",
+    "ccn3": "372",
+    "region": "Europe",
+    "population_2026": 5380432,
+    "tfr_2026": 1.6
+  },
+  {
+    "name": "New Zealand",
+    "official": "New Zealand",
+    "cca2": "NZ",
+    "cca3": "NZL",
+    "ccn3": "554",
+    "region": "Oceania",
+    "population_2026": 5304733,
+    "tfr_2026": 1.64
+  },
+  {
+    "name": "Costa Rica",
+    "official": "Republic of Costa Rica",
+    "cca2": "CR",
+    "cca3": "CRI",
+    "ccn3": "188",
+    "region": "Americas",
+    "population_2026": 5185423,
+    "tfr_2026": 1.31
+  },
+  {
+    "name": "Kuwait",
+    "official": "State of Kuwait",
+    "cca2": "KW",
+    "cca3": "KWT",
+    "ccn3": "414",
+    "region": "Asia",
+    "population_2026": 5138263,
+    "tfr_2026": 1.49
+  },
+  {
+    "name": "Panama",
+    "official": "Republic of Panama",
+    "cca2": "PA",
+    "cca3": "PAN",
+    "ccn3": "591",
+    "region": "Americas",
+    "population_2026": 4652724,
+    "tfr_2026": 2.07
+  },
+  {
+    "name": "Croatia",
+    "official": "Republic of Croatia",
+    "cca2": "HR",
+    "cca3": "HRV",
+    "ccn3": "191",
+    "region": "Europe",
+    "population_2026": 3809685,
+    "tfr_2026": 1.47
+  },
+  {
+    "name": "Georgia",
+    "official": "Georgia",
+    "cca2": "GE",
+    "cca3": "GEO",
+    "ccn3": "268",
+    "region": "Asia",
+    "population_2026": 3803442,
+    "tfr_2026": 1.78
+  },
+  {
+    "name": "Eritrea",
+    "official": "State of Eritrea",
+    "cca2": "ER",
+    "cca3": "ERI",
+    "ccn3": "232",
+    "region": "Africa",
+    "population_2026": 3720758,
+    "tfr_2026": 3.55
+  },
+  {
+    "name": "Mongolia",
+    "official": "Mongolia",
+    "cca2": "MN",
+    "cca3": "MNG",
+    "ccn3": "496",
+    "region": "Asia",
+    "population_2026": 3576206,
+    "tfr_2026": 2.54
+  },
+  {
+    "name": "Uruguay",
+    "official": "Oriental Republic of Uruguay",
+    "cca2": "UY",
+    "cca3": "URY",
+    "ccn3": "858",
+    "region": "Americas",
+    "population_2026": 3381394,
+    "tfr_2026": 1.38
+  },
+  {
+    "name": "Puerto Rico",
+    "official": "Commonwealth of Puerto Rico",
+    "cca2": "PR",
+    "cca3": "PRI",
+    "ccn3": "630",
+    "region": "Americas",
+    "population_2026": 3215171,
+    "tfr_2026": 0.94
+  },
+  {
+    "name": "Qatar",
+    "official": "State of Qatar",
+    "cca2": "QA",
+    "cca3": "QAT",
+    "ccn3": "634",
+    "region": "Asia",
+    "population_2026": 3199736,
+    "tfr_2026": 1.69
+  },
+  {
+    "name": "Namibia",
+    "official": "Republic of Namibia",
+    "cca2": "NA",
+    "cca3": "NAM",
+    "ccn3": "516",
+    "region": "Africa",
+    "population_2026": 3182968,
+    "tfr_2026": 3.13
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "official": "Bosnia and Herzegovina",
+    "cca2": "BA",
+    "cca3": "BIH",
+    "ccn3": "070",
+    "region": "Europe",
+    "population_2026": 3101118,
+    "tfr_2026": 1.5
+  },
+  {
+    "name": "Moldova",
+    "official": "Republic of Moldova",
+    "cca2": "MD",
+    "cca3": "MDA",
+    "ccn3": "498",
+    "region": "Europe",
+    "population_2026": 2946801,
+    "tfr_2026": 1.72
+  },
+  {
+    "name": "Armenia",
+    "official": "Republic of Armenia",
+    "cca2": "AM",
+    "cca3": "ARM",
+    "ccn3": "051",
+    "region": "Asia",
+    "population_2026": 2920344,
+    "tfr_2026": 1.71
+  },
+  {
+    "name": "Gambia",
+    "official": "Republic of the Gambia",
+    "cca2": "GM",
+    "cca3": "GMB",
+    "ccn3": "270",
+    "region": "Africa",
+    "population_2026": 2915043,
+    "tfr_2026": 3.7
+  },
+  {
+    "name": "Jamaica",
+    "official": "Jamaica",
+    "cca2": "JM",
+    "cca3": "JAM",
+    "ccn3": "388",
+    "region": "Americas",
+    "population_2026": 2831180,
+    "tfr_2026": 1.33
+  },
+  {
+    "name": "Lithuania",
+    "official": "Republic of Lithuania",
+    "cca2": "LT",
+    "cca3": "LTU",
+    "ccn3": "440",
+    "region": "Europe",
+    "population_2026": 2785793,
+    "tfr_2026": 1.22
+  },
+  {
+    "name": "Albania",
+    "official": "Republic of Albania",
+    "cca2": "AL",
+    "cca3": "ALB",
+    "ccn3": "008",
+    "region": "Europe",
+    "population_2026": 2740903,
+    "tfr_2026": 1.32
+  },
+  {
+    "name": "Gabon",
+    "official": "Gabonese Republic",
+    "cca2": "GA",
+    "cca3": "GAB",
+    "ccn3": "266",
+    "region": "Africa",
+    "population_2026": 2674581,
+    "tfr_2026": 3.49
+  },
+  {
+    "name": "Botswana",
+    "official": "Republic of Botswana",
+    "cca2": "BW",
+    "cca3": "BWA",
+    "ccn3": "072",
+    "region": "Africa",
+    "population_2026": 2624258,
+    "tfr_2026": 2.63
+  },
+  {
+    "name": "Lesotho",
+    "official": "Kingdom of Lesotho",
+    "cca2": "LS",
+    "cca3": "LSO",
+    "ccn3": "426",
+    "region": "Africa",
+    "population_2026": 2402420,
+    "tfr_2026": 2.61
+  },
+  {
+    "name": "Guinea-Bissau",
+    "official": "Republic of Guinea-Bissau",
+    "cca2": "GW",
+    "cca3": "GNB",
+    "ccn3": "624",
+    "region": "Africa",
+    "population_2026": 2321902,
+    "tfr_2026": 3.62
+  },
+  {
+    "name": "Slovenia",
+    "official": "Republic of Slovenia",
+    "cca2": "SI",
+    "cca3": "SVN",
+    "ccn3": "705",
+    "region": "Europe",
+    "population_2026": 2113172,
+    "tfr_2026": 1.58
+  },
+  {
+    "name": "Equatorial Guinea",
+    "official": "Republic of Equatorial Guinea",
+    "cca2": "GQ",
+    "cca3": "GNQ",
+    "ccn3": "226",
+    "region": "Africa",
+    "population_2026": 2007489,
+    "tfr_2026": 3.95
+  },
+  {
+    "name": "Latvia",
+    "official": "Republic of Latvia",
+    "cca2": "LV",
+    "cca3": "LVA",
+    "ccn3": "428",
+    "region": "Europe",
+    "population_2026": 1828801,
+    "tfr_2026": 1.35
+  },
+  {
+    "name": "North Macedonia",
+    "official": "Republic of North Macedonia",
+    "cca2": "MK",
+    "cca3": "MKD",
+    "ccn3": "807",
+    "region": "Europe",
+    "population_2026": 1799049,
+    "tfr_2026": 1.47
+  },
+  {
+    "name": "Bahrain",
+    "official": "Kingdom of Bahrain",
+    "cca2": "BH",
+    "cca3": "BHR",
+    "ccn3": "048",
+    "region": "Asia",
+    "population_2026": 1690774,
+    "tfr_2026": 1.77
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "official": "Republic of Trinidad and Tobago",
+    "cca2": "TT",
+    "cca3": "TTO",
+    "ccn3": "780",
+    "region": "Americas",
+    "population_2026": 1514034,
+    "tfr_2026": 1.52
+  },
+  {
+    "name": "Timor-Leste",
+    "official": "Democratic Republic of Timor-Leste",
+    "cca2": "TL",
+    "cca3": "TLS",
+    "ccn3": "626",
+    "region": "Asia",
+    "population_2026": 1446362,
+    "tfr_2026": 2.5
+  },
+  {
+    "name": "Cyprus",
+    "official": "Republic of Cyprus",
+    "cca2": "CY",
+    "cca3": "CYP",
+    "ccn3": "196",
+    "region": "Europe",
+    "population_2026": 1387888,
+    "tfr_2026": 1.37
+  },
+  {
+    "name": "Estonia",
+    "official": "Republic of Estonia",
+    "cca2": "EE",
+    "cca3": "EST",
+    "ccn3": "233",
+    "region": "Europe",
+    "population_2026": 1327526,
+    "tfr_2026": 1.38
+  },
+  {
+    "name": "Eswatini",
+    "official": "Kingdom of Eswatini",
+    "cca2": "SZ",
+    "cca3": "SWZ",
+    "ccn3": "748",
+    "region": "Africa",
+    "population_2026": 1276706,
+    "tfr_2026": 2.64
+  },
+  {
+    "name": "Mauritius",
+    "official": "Republic of Mauritius",
+    "cca2": "MU",
+    "cca3": "MUS",
+    "ccn3": "480",
+    "region": "Africa",
+    "population_2026": 1263379,
+    "tfr_2026": 1.21
+  },
+  {
+    "name": "Djibouti",
+    "official": "Republic of Djibouti",
+    "cca2": "DJ",
+    "cca3": "DJI",
+    "ccn3": "262",
+    "region": "Africa",
+    "population_2026": 1207338,
+    "tfr_2026": 2.54
+  },
+  {
+    "name": "Fiji",
+    "official": "Republic of Fiji",
+    "cca2": "FJ",
+    "cca3": "FJI",
+    "ccn3": "242",
+    "region": "Oceania",
+    "population_2026": 939278,
+    "tfr_2026": 2.23
+  },
+  {
+    "name": "Comoros",
+    "official": "Union of the Comoros",
+    "cca2": "KM",
+    "cca3": "COM",
+    "ccn3": "174",
+    "region": "Africa",
+    "population_2026": 907074,
+    "tfr_2026": 3.71
+  },
+  {
+    "name": "Réunion",
+    "official": "Réunion Island",
+    "cca2": "RE",
+    "cca3": "REU",
+    "ccn3": "638",
+    "region": "Africa",
+    "population_2026": 888291,
+    "tfr_2026": 2.12
+  },
+  {
+    "name": "Solomon Islands",
+    "official": "Solomon Islands",
+    "cca2": "SB",
+    "cca3": "SLB",
+    "ccn3": "090",
+    "region": "Oceania",
+    "population_2026": 868141,
+    "tfr_2026": 3.42
+  },
+  {
+    "name": "Guyana",
+    "official": "Co-operative Republic of Guyana",
+    "cca2": "GY",
+    "cca3": "GUY",
+    "ccn3": "328",
+    "region": "Americas",
+    "population_2026": 843349,
+    "tfr_2026": 2.35
+  },
+  {
+    "name": "Bhutan",
+    "official": "Kingdom of Bhutan",
+    "cca2": "BT",
+    "cca3": "BTN",
+    "ccn3": "064",
+    "region": "Asia",
+    "population_2026": 805008,
+    "tfr_2026": 1.43
+  },
+  {
+    "name": "Macau",
+    "official": "Macao Special Administrative Region of the People's Republic of China",
+    "cca2": "MO",
+    "cca3": "MAC",
+    "ccn3": "446",
+    "region": "Asia",
+    "population_2026": 724020,
+    "tfr_2026": 0.7
+  },
+  {
+    "name": "Luxembourg",
+    "official": "Grand Duchy of Luxembourg",
+    "cca2": "LU",
+    "cca3": "LUX",
+    "ccn3": "442",
+    "region": "Europe",
+    "population_2026": 690858,
+    "tfr_2026": 1.41
+  },
+  {
+    "name": "Suriname",
+    "official": "Republic of Suriname",
+    "cca2": "SR",
+    "cca3": "SUR",
+    "ccn3": "740",
+    "region": "Americas",
+    "population_2026": 647931,
+    "tfr_2026": 2.19
+  },
+  {
+    "name": "Montenegro",
+    "official": "Montenegro",
+    "cca2": "ME",
+    "cca3": "MNE",
+    "ccn3": "499",
+    "region": "Europe",
+    "population_2026": 624530,
+    "tfr_2026": 1.79
+  },
+  {
+    "name": "Western Sahara",
+    "official": "Sahrawi Arab Democratic Republic",
+    "cca2": "EH",
+    "cca3": "ESH",
+    "ccn3": "732",
+    "region": "Africa",
+    "population_2026": 615648,
+    "tfr_2026": 2.13
+  },
+  {
+    "name": "Malta",
+    "official": "Republic of Malta",
+    "cca2": "MT",
+    "cca3": "MLT",
+    "ccn3": "470",
+    "region": "Europe",
+    "population_2026": 550032,
+    "tfr_2026": 1.12
+  },
+  {
+    "name": "Maldives",
+    "official": "Republic of the Maldives",
+    "cca2": "MV",
+    "cca3": "MDV",
+    "ccn3": "462",
+    "region": "Asia",
+    "population_2026": 532436,
+    "tfr_2026": 1.53
+  },
+  {
+    "name": "Cape Verde",
+    "official": "Republic of Cabo Verde",
+    "cca2": "CV",
+    "cca3": "CPV",
+    "ccn3": "132",
+    "region": "Africa",
+    "population_2026": 530748,
+    "tfr_2026": 1.49
+  },
+  {
+    "name": "Brunei",
+    "official": "Nation of Brunei, Abode of Peace",
+    "cca2": "BN",
+    "cca3": "BRN",
+    "ccn3": "096",
+    "region": "Asia",
+    "population_2026": 471463,
+    "tfr_2026": 1.7
+  },
+  {
+    "name": "Belize",
+    "official": "Belize",
+    "cca2": "BZ",
+    "cca3": "BLZ",
+    "ccn3": "084",
+    "region": "Americas",
+    "population_2026": 431487,
+    "tfr_2026": 1.99
+  },
+  {
+    "name": "Bahamas",
+    "official": "Commonwealth of the Bahamas",
+    "cca2": "BS",
+    "cca3": "BHS",
+    "ccn3": "044",
+    "region": "Americas",
+    "population_2026": 405392,
+    "tfr_2026": 1.36
+  },
+  {
+    "name": "Iceland",
+    "official": "Iceland",
+    "cca2": "IS",
+    "cca3": "ISL",
+    "ccn3": "352",
+    "region": "Europe",
+    "population_2026": 404177,
+    "tfr_2026": 1.49
+  },
+  {
+    "name": "Guadeloupe",
+    "official": "Guadeloupe",
+    "cca2": "GP",
+    "cca3": "GLP",
+    "ccn3": "312",
+    "region": "Americas",
+    "population_2026": 371780,
+    "tfr_2026": 2.04
+  },
+  {
+    "name": "Mayotte",
+    "official": "Department of Mayotte",
+    "cca2": "YT",
+    "cca3": "MYT",
+    "ccn3": "175",
+    "region": "Africa",
+    "population_2026": 352809,
+    "tfr_2026": 4.43
+  },
+  {
+    "name": "Vanuatu",
+    "official": "Republic of Vanuatu",
+    "cca2": "VU",
+    "cca3": "VUT",
+    "ccn3": "548",
+    "region": "Oceania",
+    "population_2026": 346260,
+    "tfr_2026": 3.5
+  },
+  {
+    "name": "Martinique",
+    "official": "Martinique",
+    "cca2": "MQ",
+    "cca3": "MTQ",
+    "ccn3": "474",
+    "region": "Americas",
+    "population_2026": 336357,
+    "tfr_2026": 1.95
+  },
+  {
+    "name": "French Guiana",
+    "official": "Guiana",
+    "cca2": "GF",
+    "cca3": "GUF",
+    "ccn3": "254",
+    "region": "Americas",
+    "population_2026": 321496,
+    "tfr_2026": 3.25
+  },
+  {
+    "name": "New Caledonia",
+    "official": "New Caledonia",
+    "cca2": "NC",
+    "cca3": "NCL",
+    "ccn3": "540",
+    "region": "Oceania",
+    "population_2026": 299129,
+    "tfr_2026": 1.93
+  },
+  {
+    "name": "French Polynesia",
+    "official": "French Polynesia",
+    "cca2": "PF",
+    "cca3": "PYF",
+    "ccn3": "258",
+    "region": "Oceania",
+    "population_2026": 283369,
+    "tfr_2026": 1.47
+  },
+  {
+    "name": "Barbados",
+    "official": "Barbados",
+    "cca2": "BB",
+    "cca3": "BRB",
+    "ccn3": "052",
+    "region": "Americas",
+    "population_2026": 282761,
+    "tfr_2026": 1.7
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "official": "Democratic Republic of São Tomé and Príncipe",
+    "cca2": "ST",
+    "cca3": "STP",
+    "ccn3": "678",
+    "region": "Africa",
+    "population_2026": 247367,
+    "tfr_2026": 3.47
+  },
+  {
+    "name": "Samoa",
+    "official": "Independent State of Samoa",
+    "cca2": "WS",
+    "cca3": "WSM",
+    "ccn3": "882",
+    "region": "Oceania",
+    "population_2026": 221140,
+    "tfr_2026": 3.7
+  },
+  {
+    "name": "Curaçao",
+    "official": "Country of Curaçao",
+    "cca2": "CW",
+    "cca3": "CUW",
+    "ccn3": "531",
+    "region": "Americas",
+    "population_2026": 185410,
+    "tfr_2026": 1.07
+  },
+  {
+    "name": "Saint Lucia",
+    "official": "Saint Lucia",
+    "cca2": "LC",
+    "cca3": "LCA",
+    "ccn3": "662",
+    "region": "Americas",
+    "population_2026": 180641,
+    "tfr_2026": 1.37
+  },
+  {
+    "name": "Guam",
+    "official": "Guam",
+    "cca2": "GU",
+    "cca3": "GUM",
+    "ccn3": "316",
+    "region": "Oceania",
+    "population_2026": 170772,
+    "tfr_2026": 2.68
+  },
+  {
+    "name": "Kiribati",
+    "official": "Independent and Sovereign Republic of Kiribati",
+    "cca2": "KI",
+    "cca3": "KIR",
+    "ccn3": "296",
+    "region": "Oceania",
+    "population_2026": 139422,
+    "tfr_2026": 3.06
+  },
+  {
+    "name": "Seychelles",
+    "official": "Republic of Seychelles",
+    "cca2": "SC",
+    "cca3": "SYC",
+    "ccn3": "690",
+    "region": "Africa",
+    "population_2026": 135991,
+    "tfr_2026": 2.06
+  },
+  {
+    "name": "Grenada",
+    "official": "Grenada",
+    "cca2": "GD",
+    "cca3": "GRD",
+    "ccn3": "308",
+    "region": "Americas",
+    "population_2026": 117377,
+    "tfr_2026": 1.45
+  },
+  {
+    "name": "Micronesia",
+    "official": "Federated States of Micronesia",
+    "cca2": "FM",
+    "cca3": "FSM",
+    "ccn3": "583",
+    "region": "Oceania",
+    "population_2026": 114427,
+    "tfr_2026": 2.67
+  },
+  {
+    "name": "Aruba",
+    "official": "Aruba",
+    "cca2": "AW",
+    "cca3": "ABW",
+    "ccn3": "533",
+    "region": "Americas",
+    "population_2026": 108155,
+    "tfr_2026": 1.61
+  },
+  {
+    "name": "Jersey",
+    "official": "Bailiwick of Jersey",
+    "cca2": "JE",
+    "cca3": "JEY",
+    "ccn3": "832",
+    "region": "Europe",
+    "population_2026": 104159,
+    "tfr_2026": 1.38
+  },
+  {
+    "name": "Tonga",
+    "official": "Kingdom of Tonga",
+    "cca2": "TO",
+    "cca3": "TON",
+    "ccn3": "776",
+    "region": "Oceania",
+    "population_2026": 103070,
+    "tfr_2026": 3.04
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "official": "Saint Vincent and the Grenadines",
+    "cca2": "VC",
+    "cca3": "VCT",
+    "ccn3": "670",
+    "region": "Americas",
+    "population_2026": 98906,
+    "tfr_2026": 1.73
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "official": "Antigua and Barbuda",
+    "cca2": "AG",
+    "cca3": "ATG",
+    "ccn3": "028",
+    "region": "Americas",
+    "population_2026": 94828,
+    "tfr_2026": 1.57
+  },
+  {
+    "name": "Andorra",
+    "official": "Principality of Andorra",
+    "cca2": "AD",
+    "cca3": "AND",
+    "ccn3": "020",
+    "region": "Europe",
+    "population_2026": 84154,
+    "tfr_2026": 1.11
+  },
+  {
+    "name": "Isle of Man",
+    "official": "Isle of Man",
+    "cca2": "IM",
+    "cca3": "IMN",
+    "ccn3": "833",
+    "region": "Europe",
+    "population_2026": 84020,
+    "tfr_2026": 1.53
+  },
+  {
+    "name": "United States Virgin Islands",
+    "official": "Virgin Islands of the United States",
+    "cca2": "VI",
+    "cca3": "VIR",
+    "ccn3": "850",
+    "region": "Americas",
+    "population_2026": 83031,
+    "tfr_2026": 2.05
+  },
+  {
+    "name": "Cayman Islands",
+    "official": "Cayman Islands",
+    "cca2": "KY",
+    "cca3": "CYM",
+    "ccn3": "136",
+    "region": "Americas",
+    "population_2026": 77864,
+    "tfr_2026": 1.5
+  },
+  {
+    "name": "Dominica",
+    "official": "Commonwealth of Dominica",
+    "cca2": "DM",
+    "cca3": "DMA",
+    "ccn3": "212",
+    "region": "Americas",
+    "population_2026": 65336,
+    "tfr_2026": 1.46
+  },
+  {
+    "name": "Guernsey",
+    "official": "Bailiwick of Guernsey",
+    "cca2": "GG",
+    "cca3": "GGY",
+    "ccn3": "831",
+    "region": "Europe",
+    "population_2026": 64657,
+    "tfr_2026": 1.37
+  },
+  {
+    "name": "Bermuda",
+    "official": "Bermuda",
+    "cca2": "BM",
+    "cca3": "BMU",
+    "ccn3": "060",
+    "region": "Americas",
+    "population_2026": 64410,
+    "tfr_2026": 1.42
+  },
+  {
+    "name": "Faroe Islands",
+    "official": "Faroe Islands",
+    "cca2": "FO",
+    "cca3": "FRO",
+    "ccn3": "234",
+    "region": "Europe",
+    "population_2026": 56772,
+    "tfr_2026": 2.19
+  },
+  {
+    "name": "Greenland",
+    "official": "Greenland",
+    "cca2": "GL",
+    "cca3": "GRL",
+    "ccn3": "304",
+    "region": "Americas",
+    "population_2026": 55564,
+    "tfr_2026": 1.9
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "official": "Turks and Caicos Islands",
+    "cca2": "TC",
+    "cca3": "TCA",
+    "ccn3": "796",
+    "region": "Americas",
+    "population_2026": 47286,
+    "tfr_2026": 1.43
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "official": "Federation of Saint Christopher and Nevis",
+    "cca2": "KN",
+    "cca3": "KNA",
+    "ccn3": "659",
+    "region": "Americas",
+    "population_2026": 47023,
+    "tfr_2026": 1.5
+  },
+  {
+    "name": "American Samoa",
+    "official": "American Samoa",
+    "cca2": "AS",
+    "cca3": "ASM",
+    "ccn3": "016",
+    "region": "Oceania",
+    "population_2026": 44969,
+    "tfr_2026": 2.22
+  },
+  {
+    "name": "Sint Maarten",
+    "official": "Sint Maarten",
+    "cca2": "SX",
+    "cca3": "SXM",
+    "ccn3": "534",
+    "region": "Americas",
+    "population_2026": 44693,
+    "tfr_2026": 1.42
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "official": "Commonwealth of the Northern Mariana Islands",
+    "cca2": "MP",
+    "cca3": "MNP",
+    "ccn3": "580",
+    "region": "Oceania",
+    "population_2026": 42634,
+    "tfr_2026": 2.24
+  },
+  {
+    "name": "Gibraltar",
+    "official": "Gibraltar",
+    "cca2": "GI",
+    "cca3": "GIB",
+    "ccn3": "292",
+    "region": "Europe",
+    "population_2026": 41220,
+    "tfr_2026": 1.88
+  },
+  {
+    "name": "Liechtenstein",
+    "official": "Principality of Liechtenstein",
+    "cca2": "LI",
+    "cca3": "LIE",
+    "ccn3": "438",
+    "region": "Europe",
+    "population_2026": 40484,
+    "tfr_2026": 1.54
+  },
+  {
+    "name": "British Virgin Islands",
+    "official": "Virgin Islands",
+    "cca2": "VG",
+    "cca3": "VGB",
+    "ccn3": "092",
+    "region": "Americas",
+    "population_2026": 40023,
+    "tfr_2026": 1.07
+  },
+  {
+    "name": "Monaco",
+    "official": "Principality of Monaco",
+    "cca2": "MC",
+    "cca3": "MCO",
+    "ccn3": "492",
+    "region": "Europe",
+    "population_2026": 37977,
+    "tfr_2026": 2.08
+  },
+  {
+    "name": "Marshall Islands",
+    "official": "Republic of the Marshall Islands",
+    "cca2": "MH",
+    "cca3": "MHL",
+    "ccn3": "584",
+    "region": "Oceania",
+    "population_2026": 34500,
+    "tfr_2026": 2.77
+  },
+  {
+    "name": "San Marino",
+    "official": "Most Serene Republic of San Marino",
+    "cca2": "SM",
+    "cca3": "SMR",
+    "ccn3": "674",
+    "region": "Europe",
+    "population_2026": 33620,
+    "tfr_2026": 1.17
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "official": "Bonaire, Sint Eustatius and Saba",
+    "cca2": "BQ",
+    "cca3": "BES",
+    "ccn3": "535",
+    "region": "Americas",
+    "population_2026": 32176,
+    "tfr_2026": 1.44
+  },
+  {
+    "name": "Saint Martin",
+    "official": "Saint Martin",
+    "cca2": "MF",
+    "cca3": "MAF",
+    "ccn3": "663",
+    "region": "Americas",
+    "population_2026": 23401,
+    "tfr_2026": 2.59
+  },
+  {
+    "name": "Palau",
+    "official": "Republic of Palau",
+    "cca2": "PW",
+    "cca3": "PLW",
+    "ccn3": "585",
+    "region": "Oceania",
+    "population_2026": 17588,
+    "tfr_2026": 1.84
+  },
+  {
+    "name": "Anguilla",
+    "official": "Anguilla",
+    "cca2": "AI",
+    "cca3": "AIA",
+    "ccn3": "660",
+    "region": "Americas",
+    "population_2026": 14852,
+    "tfr_2026": 1.34
+  },
+  {
+    "name": "Cook Islands",
+    "official": "Cook Islands",
+    "cca2": "CK",
+    "cca3": "COK",
+    "ccn3": "184",
+    "region": "Oceania",
+    "population_2026": 12617,
+    "tfr_2026": 1.97
+  },
+  {
+    "name": "Nauru",
+    "official": "Republic of Nauru",
+    "cca2": "NR",
+    "cca3": "NRU",
+    "ccn3": "520",
+    "region": "Oceania",
+    "population_2026": 12140,
+    "tfr_2026": 3.2
+  },
+  {
+    "name": "Saint Barthélemy",
+    "official": "Collectivity of Saint Barthélemy",
+    "cca2": "BL",
+    "cca3": "BLM",
+    "ccn3": "652",
+    "region": "Americas",
+    "population_2026": 11610,
+    "tfr_2026": 0.84
+  },
+  {
+    "name": "Wallis and Futuna",
+    "official": "Territory of the Wallis and Futuna Islands",
+    "cca2": "WF",
+    "cca3": "WLF",
+    "ccn3": "876",
+    "region": "Oceania",
+    "population_2026": 11073,
+    "tfr_2026": 1.39
+  },
+  {
+    "name": "Tuvalu",
+    "official": "Tuvalu",
+    "cca2": "TV",
+    "cca3": "TUV",
+    "ccn3": "798",
+    "region": "Oceania",
+    "population_2026": 9304,
+    "tfr_2026": 3.1
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "official": "Saint Pierre and Miquelon",
+    "cca2": "PM",
+    "cca3": "SPM",
+    "ccn3": "666",
+    "region": "Americas",
+    "population_2026": 5482,
+    "tfr_2026": 1.28
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "official": "Saint Helena, Ascension and Tristan da Cunha",
+    "cca2": "SH",
+    "cca3": "SHN",
+    "ccn3": "654",
+    "region": "Africa",
+    "population_2026": 5118,
+    "tfr_2026": 1.64
+  },
+  {
+    "name": "Montserrat",
+    "official": "Montserrat",
+    "cca2": "MS",
+    "cca3": "MSR",
+    "ccn3": "500",
+    "region": "Americas",
+    "population_2026": 4310,
+    "tfr_2026": 1.45
+  },
+  {
+    "name": "Falkland Islands",
+    "official": "Falkland Islands",
+    "cca2": "FK",
+    "cca3": "FLK",
+    "ccn3": "238",
+    "region": "Americas",
+    "population_2026": 3463,
+    "tfr_2026": 1.69
+  },
+  {
+    "name": "Tokelau",
+    "official": "Tokelau",
+    "cca2": "TK",
+    "cca3": "TKL",
+    "ccn3": "772",
+    "region": "Oceania",
+    "population_2026": 2726,
+    "tfr_2026": 2.54
+  },
+  {
+    "name": "Niue",
+    "official": "Niue",
+    "cca2": "NU",
+    "cca3": "NIU",
+    "ccn3": "570",
+    "region": "Oceania",
+    "population_2026": 1825,
+    "tfr_2026": 2.44
+  }
+]
